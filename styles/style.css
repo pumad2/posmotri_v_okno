@@ -39,6 +39,7 @@ ol {
 
 .content {
   display: flex;
+  max-height: 800px;
   align-items: end;
   padding: 133px 30px;
   width: 100%;
