@@ -272,7 +272,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox {
 }
 
 .content__video-card-title {
-  max-width: 200px;
+  max-width: 192px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
